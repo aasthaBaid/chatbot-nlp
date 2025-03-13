@@ -111,7 +111,7 @@ def main():
     choice = st.sidebar.radio("Menu", menu)
     
     if choice == "Chat":
-        st.markdown("### 💬 i can repond to only short forms , and respond with its corresponding full forms!")
+        st.markdown("### 💬 I can repond to only short forms , and respond with its corresponding full forms!")
         if not os.path.exists('chat_log.csv'):
             with open('chat_log.csv', 'w', newline='', encoding='utf-8') as csvfile:
                 csv.writer(csvfile).writerow(['User Input', 'Chatbot Response', 'Timestamp'])
