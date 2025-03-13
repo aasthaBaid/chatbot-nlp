@@ -1,0 +1,706 @@
+[
+    {
+        "tag": "sup",
+        "patterns": [
+            "Sup"
+        ],
+        "responses": [
+            "'Sup' means 'What's up?'"
+        ]
+    },
+    {
+        "tag": "yo",
+        "patterns": [
+            "Yo"
+        ],
+        "responses": [
+            "'Yo' is just a casual greeting!"
+        ]
+    },
+    {
+        "tag": "wassup",
+        "patterns": [
+            "Wassup"
+        ],
+        "responses": [
+            "'Wassup' is short for 'What's up?'"
+        ]
+    },
+    {
+        "tag": "wyd",
+        "patterns": [
+            "WYD"
+        ],
+        "responses": [
+            "'WYD' stands for 'What are you doing?'"
+        ]
+    },
+    {
+        "tag": "gm",
+        "patterns": [
+            "GM"
+        ],
+        "responses": [
+            "'GM' means 'Good morning!'"
+        ]
+    },
+    {
+        "tag": "gn",
+        "patterns": [
+            "GN"
+        ],
+        "responses": [
+            "'GN' means 'Good night!'"
+        ]
+    },
+    {
+        "tag": "ttyl",
+        "patterns": [
+            "TTYL"
+        ],
+        "responses": [
+            "'TTYL' means 'Talk to you later!'"
+        ]
+    },
+    {
+        "tag": "gtg",
+        "patterns": [
+            "GTG"
+        ],
+        "responses": [
+            "'GTG' stands for 'Got to go!'"
+        ]
+    },
+    {
+        "tag": "brb",
+        "patterns": [
+            "BRB"
+        ],
+        "responses": [
+            "'BRB' means 'Be right back!'"
+        ]
+    },
+    {
+        "tag": "tc",
+        "patterns": [
+            "TC"
+        ],
+        "responses": [
+            "'TC' is short for 'Take care!'"
+        ]
+    },
+    {
+        "tag": "bbl",
+        "patterns": [
+            "BBL"
+        ],
+        "responses": [
+            "'BBL' means 'Be back later!'"
+        ]
+    },
+    {
+        "tag": "g2g",
+        "patterns": [
+            "G2G"
+        ],
+        "responses": [
+            "'G2G' is another way of saying 'Got to go!'"
+        ]
+    },
+    {
+        "tag": "thx",
+        "patterns": [
+            "Thx"
+        ],
+        "responses": [
+            "'Thx' is short for 'Thanks!'"
+        ]
+    },
+    {
+        "tag": "ty",
+        "patterns": [
+            "Ty"
+        ],
+        "responses": [
+            "'Ty' means 'Thank you!'"
+        ]
+    },
+    {
+        "tag": "tysm",
+        "patterns": [
+            "Tysm"
+        ],
+        "responses": [
+            "'Tysm' stands for 'Thank you so much!'"
+        ]
+    },
+    {
+        "tag": "tyvm",
+        "patterns": [
+            "Tyvm"
+        ],
+        "responses": [
+            "'Tyvm' means 'Thank you very much!'"
+        ]
+    },
+    {
+        "tag": "lol",
+        "patterns": [
+            "LOL"
+        ],
+        "responses": [
+            "'LOL' means 'Laughing Out Loud!'"
+        ]
+    },
+    {
+        "tag": "rofl",
+        "patterns": [
+            "ROFL"
+        ],
+        "responses": [
+            "'ROFL' stands for 'Rolling On the Floor Laughing!'"
+        ]
+    },
+    {
+        "tag": "lmao",
+        "patterns": [
+            "LMAO"
+        ],
+        "responses": [
+            "'LMAO' means 'Laughing My A** Off!'"
+        ]
+    },
+    {
+        "tag": "lmfao",
+        "patterns": [
+            "LMFAO"
+        ],
+        "responses": [
+            "'LMFAO' is a stronger version of 'LMAO' meaning 'Laughing My F***ing A** Off!'"
+        ]
+    },
+    {
+        "tag": "xd",
+        "patterns": [
+            "XD"
+        ],
+        "responses": [
+            "'XD' is an emoji representing a laughing face!"
+        ]
+    },
+    {
+        "tag": "omg",
+        "patterns": [
+            "OMG"
+        ],
+        "responses": [
+            "'OMG' means 'Oh my God!'"
+        ]
+    },
+    {
+        "tag": "wtf",
+        "patterns": [
+            "WTF"
+        ],
+        "responses": [
+            "'WTF' means 'What the f***!'"
+        ]
+    },
+    {
+        "tag": "idc",
+        "patterns": [
+            "IDC"
+        ],
+        "responses": [
+            "'IDC' means 'I don't care!'"
+        ]
+    },
+    {
+        "tag": "idk",
+        "patterns": [
+            "IDK"
+        ],
+        "responses": [
+            "'IDK' stands for 'I don't know!'"
+        ]
+    },
+    {
+        "tag": "ikr",
+        "patterns": [
+            "IKR"
+        ],
+        "responses": [
+            "'IKR' means 'I know, right?'"
+        ]
+    },
+    {
+        "tag": "tbh",
+        "patterns": [
+            "TBH"
+        ],
+        "responses": [
+            "'TBH' means 'To be honest!'"
+        ]
+    },
+    {
+        "tag": "fyi",
+        "patterns": [
+            "FYI"
+        ],
+        "responses": [
+            "'FYI' means 'For your information!'"
+        ]
+    },
+    {
+        "tag": "afaik",
+        "patterns": [
+            "AFAIK"
+        ],
+        "responses": [
+            "'AFAIK' means 'As far as I know!'"
+        ]
+    },
+    {
+        "tag": "bff",
+        "patterns": [
+            "BFF"
+        ],
+        "responses": [
+            "'BFF' means 'Best Friends Forever!'"
+        ]
+    },
+    {
+        "tag": "stfu",
+        "patterns": [
+            "STFU"
+        ],
+        "responses": [
+            "'STFU' means 'Shut the f*** up!'"
+        ]
+    },
+    {
+        "tag": "smh",
+        "patterns": [
+            "SMH"
+        ],
+        "responses": [
+            "'SMH' means 'Shaking my head!'"
+        ]
+    },
+    {
+        "tag": "fml",
+        "patterns": [
+            "FML"
+        ],
+        "responses": [
+            "'FML' means 'F*** my life!'"
+        ]
+    },
+    {
+        "tag": "hmu",
+        "patterns": [
+            "HMU"
+        ],
+        "responses": [
+            "'HMU' means 'Hit me up!'"
+        ]
+    },
+    {
+        "tag": "dm",
+        "patterns": [
+            "DM"
+        ],
+        "responses": [
+            "'DM' means 'Direct message!'"
+        ]
+    },
+    {
+        "tag": "btw",
+        "patterns": [
+            "BTW"
+        ],
+        "responses": [
+            "'BTW' stands for 'By the way!'"
+        ]
+    },
+    {
+        "tag": "hbu",
+        "patterns": [
+            "HBU"
+        ],
+        "responses": [
+            "'HBU' means 'How about you?'"
+        ]
+    },
+    {
+        "tag": "wbu",
+        "patterns": [
+            "WBU"
+        ],
+        "responses": [
+            "'WBU' means 'What about you?'"
+        ]
+    },
+    {
+        "tag": "omw",
+        "patterns": [
+            "OMW"
+        ],
+        "responses": [
+            "'OMW' means 'On my way!'"
+        ]
+    },
+    {
+        "tag": "gg",
+        "patterns": [
+            "GG"
+        ],
+        "responses": [
+            "'GG' means 'Good game!'"
+        ]
+    },
+    {
+        "tag": "glhf",
+        "patterns": [
+            "GLHF"
+        ],
+        "responses": [
+            "'GLHF' means 'Good luck, have fun!'"
+        ]
+    },
+    {
+        "tag": "wp",
+        "patterns": [
+            "WP"
+        ],
+        "responses": [
+            "'WP' means 'Well played!'"
+        ]
+    },
+    {
+        "tag": "irl",
+        "patterns": [
+            "IRL"
+        ],
+        "responses": [
+            "'IRL' means 'In real life!'"
+        ]
+    },
+    {
+        "tag": "tgif",
+        "patterns": [
+            "TGIF"
+        ],
+        "responses": [
+            "'TGIF' means 'Thank God it's Friday!'"
+        ]
+    },
+    {
+        "tag": "gr8",
+        "patterns": [
+            "Gr8"
+        ],
+        "responses": [
+            "'Gr8' means 'Great!'"
+        ]
+    },
+    {
+        "tag": "bc",
+        "patterns": [
+            "BC"
+        ],
+        "responses": [
+            "'BC' means 'Because!'"
+        ]
+    },
+    {
+        "tag": "np",
+        "patterns": [
+            "NP"
+        ],
+        "responses": [
+            "'NP' means 'No problem!'"
+        ]
+    },
+    {
+        "tag": "gws",
+        "patterns": [
+            "GWS"
+        ],
+        "responses": [
+            "'GWS' means 'Get well soon!'"
+        ]
+    },
+    {
+        "tag": "nvm",
+        "patterns": [
+            "NVM"
+        ],
+        "responses": [
+            "'NVM' means 'Never mind!'"
+        ]
+    },
+    {
+        "tag": "yw",
+        "patterns": [
+            "YW"
+        ],
+        "responses": [
+            "'YW' means 'You're welcome!'"
+        ]
+    },
+    {
+        "tag": "wth",
+        "patterns": [
+            "WTH"
+        ],
+        "responses": [
+            "'WTH' means 'What the heck!'"
+        ]
+    },
+    {
+        "tag": "roflmao",
+        "patterns": [
+            "ROFLMAO"
+        ],
+        "responses": [
+            "'ROFLMAO' means 'Rolling On the Floor Laughing My A** Off!'"
+        ]
+    },
+    {
+        "tag": "jk",
+        "patterns": [
+            "JK"
+        ],
+        "responses": [
+            "'JK' means 'Just kidding!'"
+        ]
+    },
+    {
+        "tag": "bday",
+        "patterns": [
+            "Bday"
+        ],
+        "responses": [
+            "'Bday' means 'Birthday!'"
+        ]
+    },
+    {
+        "tag": "omfg",
+        "patterns": [
+            "OMFG"
+        ],
+        "responses": [
+            "'OMFG' means 'Oh my f***ing God!'"
+        ]
+    },
+    {
+        "tag": "ggwp",
+        "patterns": [
+            "GGWP"
+        ],
+        "responses": [
+            "'GGWP' means 'Good game, well played!'"
+        ]
+    },
+    {
+        "tag": "faq",
+        "patterns": [
+            "FAQ"
+        ],
+        "responses": [
+            "'FAQ' stands for 'Frequently Asked Questions!'"
+        ]
+    },
+    {
+        "tag": "wbu",
+        "patterns": [
+            "WBU"
+        ],
+        "responses": [
+            "'WBU' means 'What about you?'"
+        ]
+    },
+    {
+        "tag": "sus",
+        "patterns": [
+            "Sus"
+        ],
+        "responses": [
+            "'Sus' is short for 'Suspicious!'"
+        ]
+    },
+    {
+        "tag": "wyd",
+        "patterns": [
+            "WYD"
+        ],
+        "responses": [
+            "'WYD' stands for 'What are you doing?'"
+        ]
+    },
+    {
+        "tag": "pog",
+        "patterns": [
+            "Pog"
+        ],
+        "responses": [
+            "'Pog' is short for 'PogChamp,' meaning something exciting or impressive!"
+        ]
+    },
+
+    {
+        "tag": "irl",
+        "patterns": [
+            "IRL"
+        ],
+        "responses": [
+            "'IRL' means 'In real life!'"
+        ]
+    },
+    {
+        "tag": "dm me",
+        "patterns": [
+            "DM Me"
+        ],
+        "responses": [
+            "'DM Me' means 'Direct message me!'"
+        ]
+    },
+    {
+        "tag": "tmi",
+        "patterns": [
+            "TMI"
+        ],
+        "responses": [
+            "'TMI' means 'Too much information!'"
+        ]
+    },
+    {
+        "tag": "mfw",
+        "patterns": [
+            "MFW"
+        ],
+        "responses": [
+            "'MFW' means 'My face when!'"
+        ]
+    },
+    {
+        "tag": "tfw",
+        "patterns": [
+            "TFW"
+        ],
+        "responses": [
+            "'TFW' means 'That feeling when!'"
+        ]
+    },
+    {
+        "tag": "smol",
+        "patterns": [
+            "Smol"
+        ],
+        "responses": [
+            "'Smol' means 'Small in a cute way!'"
+        ]
+    },
+    {
+        "tag": "noob",
+        "patterns": [
+            "Noob"
+        ],
+        "responses": [
+            "'Noob' is slang for 'Newbie,' meaning an inexperienced person!"
+        ]
+    },
+    {
+        "tag": "bro",
+        "patterns": [
+            "Bro"
+        ],
+        "responses": [
+            "'Bro' is short for 'Brother' and used casually among friends!"
+        ]
+    },
+    {
+        "tag": "bruh",
+        "patterns": [
+            "Bruh"
+        ],
+        "responses": [
+            "'Bruh' is an informal way of saying 'Bro' and expressing disbelief!"
+        ]
+    },
+    {
+        "tag": "fam",
+        "patterns": [
+            "Fam"
+        ],
+        "responses": [
+            "'Fam' is short for 'Family' and refers to close friends!"
+        ]
+    },
+    {
+        "tag": "lit",
+        "patterns": [
+            "Lit"
+        ],
+        "responses": [
+            "'Lit' means something is really cool or exciting!"
+        ]
+    },
+    {
+        "tag": "cap",
+        "patterns": [
+            "Cap"
+        ],
+        "responses": [
+            "'Cap' means 'Lie', and 'No cap' means 'No lie'!"
+        ]
+    },
+    {
+        "tag": "yeet",
+        "patterns": [
+            "Yeet"
+        ],
+        "responses": [
+            "'Yeet' means to throw something forcefully or to express excitement!"
+        ]
+    },
+    {
+        "tag": "dope",
+        "patterns": [
+            "Dope"
+        ],
+        "responses": [
+            "'Dope' means something is awesome or cool!"
+        ]
+    },
+    {
+        "tag": "hru",
+        "patterns": [
+            "HRU",
+            "How are you?"
+        ],
+        "responses": [
+            "'HRU' means 'How are you?' 😊"
+        ]
+    },
+    {
+        "tag": "fomo",
+        "patterns": [
+            "FOMO"
+        ],
+        "responses": [
+            "'FOMO' means 'Fear of missing out!' 😢"
+        ]
+    },
+    {
+        "tag": "imo",
+        "patterns": [
+            "IMO"
+        ],
+        "responses": [
+            "'IMO' means 'In my opinion!'"
+        ]
+    }
+]
